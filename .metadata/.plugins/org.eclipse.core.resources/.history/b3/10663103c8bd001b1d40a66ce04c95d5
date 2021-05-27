@@ -1,0 +1,5 @@
+package com.ricardofarias.myinvest.resources;
+
+public class CategoriaResource {
+
+}

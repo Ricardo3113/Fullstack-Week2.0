@@ -1,0 +1,5 @@
+package com.ricardofarias.myinvest.repository;
+
+public interface Investimento {
+
+}
